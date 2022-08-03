@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2d862f09.css","mappings":"AAAA,aACC,YACD","sources":["App.css"],"sourcesContent":[".app-wrapper {\r\n\tdisplay: grid;\r\n}\r\n.nav{\r\n\t\r\n}\r\n.header{\r\n\r\n}\r\n.content{\r\n\r\n}\r\n"],"names":[],"sourceRoot":""}
